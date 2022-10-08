@@ -61,9 +61,12 @@ body {
   border-radius: 24px;
   margin-top: 20px;
   cursor: pointer;
-  transition: 0.3s;
+  transition: 0.4s;
 }
 
 .form-wrapper button:hover {
   opacity: 0.8;
+  color: white;
+  background-color: lime;
+  text-shadow: 1px 1px 2px black;
 }
